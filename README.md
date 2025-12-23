@@ -4,3 +4,4 @@
 - Тесты: pytest
 - Линтер: ruff
 - CI/CD: GitHub Actions
+# Test change for PR
